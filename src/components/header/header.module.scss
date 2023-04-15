@@ -1,7 +1,7 @@
 .header {
     display: flex;
     justify-content: center;
-    background-color: cadetblue;
+    background-color: #1877F2;
     min-height: 70px;
 }
 
@@ -46,14 +46,14 @@ a {
 .button {
     color: #fff;
     font-size: 18px;
-    background-color: dodgerblue;
+    background-color: lightgrey;
     padding: 10px 15px;
     border-radius: 8px;
     &:hover {
-        background-color: #3a007d;
-        color: #fff;
-        text-shadow: #fff 0 0 4px;
-        box-shadow: #520099 0 0 15px;
+        background-color: white;
+        color: #1877F2;
+        text-shadow: #1877F2 0 0 4px;
+        box-shadow: #1877F2 0 0 15px;
     }
 }
 
